@@ -8,8 +8,8 @@ Unity 2D projekts kas demonstrē UI elementu lietojumu
 - [x]  Inmage un Toggle elemantu lietojums
 - [x]  Panel un Toggle Groop elementu lietojums
 - [x]  Dropdown  un slider elementu lietojums
-- [ ]  Audio sorce un Scrolwiew elementu lietojums
-- [ ]  DragAndDrop funkcionialitāte
+- [x]  Audio sorce un Scrolwiew elementu lietojums
+- [x]  DragAndDrop funkcionialitāte
 - [ ]  Jaunas ainas ieviešana
 - [ ]  Rigidbody un Collider komponenšu lietojums
 - [ ]  Sagatavošana windows platformai
